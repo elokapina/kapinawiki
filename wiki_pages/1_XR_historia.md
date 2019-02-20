@@ -3,5 +3,5 @@
 
 [Takaisin pääsivulle](#pääsivu)
 
-1. **### [XR:n historia](#1)**
+1. **### XR:n historia**
     1.	Rising Up!
