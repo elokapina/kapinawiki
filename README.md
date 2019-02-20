@@ -12,8 +12,6 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 <a name="5" href="https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"></a>
 <a name="6" href="https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"></a>
 
-
-Tämä ensimmäinen luonnos on tehty XR campaign overview ja Stroud XR Induction dokumentteja mukaillen.
 1. **[XR:n historia](#1)**
     1.	**Rising Up!**-verkosto
     
@@ -39,6 +37,4 @@ Tämä ensimmäinen luonnos on tehty XR campaign overview ja Stroud XR Induction
 
 7. **Usein kysytyt kysymykset**
 
-
-
-![elokapina logo](https://raw.githubusercontent.com/elokapina/kapinawiki/master/imgs/logo.png)
+![[elokapina logo](https://www.extinctionrebellion.fi)(https://raw.githubusercontent.com/elokapina/kapinawiki/master/imgs/logo.png)
