@@ -1,11 +1,18 @@
-![kapinawiki logo](https://raw.githubusercontent.com/DeepIntuition/kapinawiki/master/imgs/elokapina_wiki_logo.png)
+![kapinawiki logo](https://raw.githubusercontent.com/elokapina/kapinawiki/master/imgs/elokapina_wiki_logo.png)
 
 # **Tervetuloa Elokapinan Wikisivustolle!**
 
 ### **Wikin rakenne**
 
+<a href=name="1">"https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"
+<a href=name="2">"https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"
+<a href=name="3">"https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"
+<a href=name="4">"https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"
+<a href=name="5">"https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"
+<a href=name="6">"https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"
+
 Tämä ensimmäinen luonnos on tehty XR campaign overview ja Stroud XR Induction dokumentteja mukaillen.
-1. **XR:n historia**
+1. **### [XR:n historia](#1)**
     1.	Rising Up!
     
 2. **Tavoitteet**
@@ -29,4 +36,4 @@ Tämä ensimmäinen luonnos on tehty XR campaign overview ja Stroud XR Induction
 
 
 
-![elokapina logo](https://raw.githubusercontent.com/DeepIntuition/kapinawiki/master/imgs/logo.png)
+![elokapina logo](https://raw.githubusercontent.com/elokapina/kapinawiki/master/imgs/logo.png)
