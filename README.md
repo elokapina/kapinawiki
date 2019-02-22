@@ -37,9 +37,9 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 
 ---
 
-<a name="#1">
+<a name="#1"></a>
 1. **XR:n historia**
 Tähän on tulossa lyhyt historiikki Extinction Rebellionista.
 
-<a name="#1.1">
+<a name="#1.1"></a>
 1.1 **Rising Up!**-verkosto
