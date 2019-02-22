@@ -1,5 +1,5 @@
 
-## XR Finland, Elokapina | tietosuojaseloste
+## extinctionrebellion.fi | tietosuojaseloste
 
 
 Elokapina kunnioittaa yksityisyyttäsi ja on sitoutunut huolehtimaan henkilötietojesi asianmukaisesta käsittelystä Euroopan Unionin yleisen tietosuoja-asetuksen (GDPR) ja Suomen lainsäädännön mukaisesti.
@@ -9,7 +9,7 @@ Elokapina kunnioittaa yksityisyyttäsi ja on sitoutunut huolehtimaan henkilötie
 Henkilötietojen käsittelyn tarkoituksena on osapuolten välisen suhteen ja siitä johtuvien velvoitteiden hoitaminen sekä yhteydenpito ja Elokapinan toiminnasta tiedottaminen. 
 
 #### **Keräämistavat**
-Keräämämme henkilötiedot ovat pääasiassa meille luovuttamiasi tietoja. Keräämme henkilötietojasi suoraan sinulta seuraavissa yhteyksissä:
+Keräämämme henkilötiedot ovat meille luovuttamiasi tietoja. Keräämme henkilötietojasi suoraan sinulta seuraavissa yhteyksissä:
 * ilmoittautuessasi ja osallistuessasi Elokapinan järjestämiin tapahtumiin, vapaaehtoistoimintaan ja kampanjoihin
 * rekisteröityessäsi Elokapinan ylläpitämiin palveluihin (kuten foorumille ja pilvipalveluun)
 * vastatessasi kyselyihimme; sekä
@@ -21,6 +21,9 @@ Keräämämme tiedot voivat sisältää seuraavia henkilötietoja:
 * tiedot, jotka mahdollistavat sujuvan kommunikoinnin kanssasi (kuten suosimasi yhteydenpitotapa, kielitieto, sekä asiointiasi koskevat muut tarpeelliset tiedot)
 * mikäli toimit yhtiön tai muun organisaation yhteyshenkilönä, tieto yhtiöstä tai muusta organisaatiosta, jonka palveluksessa toimit, tieto tittelistäsi/asemastasi
 * muut järjestämiemme tapahtumien, kampanjoiden, vapaaehtoistoiminnan asianmukaisen ja onnistuneen järjestämisen, niihin osallistumisen sekä edelleen kehittämisen kannalta tarpeelliset tiedot (kuten tarvittaessa esimerkiksi ruoka-ainerajoitetiedot tapahtuman järjestämisen ajaksi).
+
+#### **Tietojen käsittely**
+
 
 **Lahjoituksien ja jäsenmaksujen yhteydessä voimme lisäksi kerätä seuraavia tietoja:**
 * maksutiedot (kuten pankkitilitiedot)

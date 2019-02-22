@@ -1,19 +1,14 @@
 ![kapinawiki logo](https://raw.githubusercontent.com/elokapina/kapinawiki/master/imgs/elokapina_wiki_logo.png)
 
 # **Tervetuloa Elokapinan Wikisivustolle!**
-Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organisaatiorakenteesta sekä ohjeita toimimiseen.
+Huom! Wikisivusto on tällä hetkellä vielä rakennusvaiheessa. Alla näet kuitenkin wikin tulevan rakenteen, jota toteutamme parhaillaan taustalla.
+Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organisaatiorakenteesta sekä ohjeita toimimiseen ja toiminnan suunnitteluun. 
 
 ### **Wikin rakenne**
-
-<a name="1" href="https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"></a>
-<a name="2" href="https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"></a>
-<a name="3" href="https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"></a>
-<a name="4" href="https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"></a>
-<a name="5" href="https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"></a>
-<a name="6" href="https://raw.githubusercontent.com/elokapina/kapinawiki/master/wiki_pages/1_XR_historia.md"></a>
+<a name="#sluettelo">
 
 1. **[XR:n historia](#1)**
-    1.	**Rising Up!**-verkosto
+    1.	**[Rising Up!](#1.1)**-verkosto
     
 2. **[Tavoitteet](#2)**
 3. **[Toimintaperiaatteet](#3)**
@@ -38,3 +33,13 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 7. **Usein kysytyt kysymykset**
 
 <a href="https://www.extinctionrebellion.fi">![elokapina logo](https://raw.githubusercontent.com/elokapina/kapinawiki/master/imgs/logo.png)</a>
+
+
+---
+
+<a name="#1">
+1. **XR:n historia**
+Tähän on tulossa lyhyt historiikki Extinction Rebellionista.
+
+<a name="#1.1">
+1.1 **Rising Up!**-verkosto
