@@ -45,8 +45,21 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 ---
 
 
-<a id="#1">1.0 **XR:n historia**</a>
-Tähän on tulossa lyhyt historiikki Extinction Rebellionista.
+1. **XR:n historia**
+Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi RisingUP!-verkoston tuloksena.
+    1. **RisingUP!-verkosto**
 
-<a id="#1.1">XR:n historia</a>
-    1.1 <a href="#sluettelo">**Rising Up!**-verkosto</a>
+3. **Toimintaperiaatteet**
+    4. **Uusiutuva kulttuuri**
+
+    * Rohkaistaan huolenpidon, hoivan ja kunnioituksen kulttuuria.
+    * Luodaan toimintatapoja, joiden tarkoituksena on tehdä ihmiset tervetulleiksi mukaan kapinaan ja auttaa heitä tuntemaan olonsa tuetuiksi ja arvostetuiksi.
+    * Valmistetaan ihmisiä tulemaan mukaan ja ottamaaan osaa väkivallattomaan suoraan toimintaan / tuetaan eri rooleja tarvittavilla neuvoilla liittyen käytännön ja emotionaaliseen hyvinvointiin.
+    * Varmistetaan, että kaikilla on tietoa kunnioittavasta ja väkivallattomasta vuorovaikutuksesta niin netissä kuin kasvokkain. Tämä tarkoittaa muun muassa sitä, että aiheesta briiffataan tapaamisten aluksi.
+    * Suunnitellaan ja otetaan käyttöön kaveri(buddy)- tai check-in-systeemi, joka tukee osallistujia.
+    * Luodaan kirjalliset dokumentit täsmällisistä tukitoimista, joita ihmiset voivat odottaa niin ennen aktiota kuin sen aikana ja jälkeenkin.
+    * Koordinoidaan putkassa/vankilasssa/oikeudessa olevien tukea lähiryhmien avulla.
+    * Tuetaan työ/lähiryhmiä luomaan ja toteuttamaan käytännöllisiä ja emotionaalisia palautesessioita kampanjan jälkeen. Nämä tilaisuudet fasilitoidaan ja perustuvat väkivallattoman vuorovaikutuksen periaatteisiin.
+    * Suunnitellaan ja toteutetaan selkeä ja läpinäkyvä kurinpidollinen prosessi, jota voidaan käyttää, jos joku on häiritsevä, ahdisteleva ja/tai epäkunnioittava. Tähän voi sisältyä se, että pyydetään ihmisiä jättämään XR.
+    * Tuetaan ihmisiä konflitkitilanteissa käyttämällä RisingUpin sovitteluprosessia.
+
