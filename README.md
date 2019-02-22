@@ -27,11 +27,17 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 5. **Viestintätavat ja -alustat**
     1.  Tavat
     2.  Alustat
+
 6. **Aktiot**
     1.	Kapinaviikko
     2.	Kuinka järjestää oma kansalaistottelemattomuustempaus
 
-7. **Usein kysytyt kysymykset**
+7. **Toiminnan ydinkonseptit**
+    1.  Suuntana sukupuutto-puhe
+    2.  Kansalliset infopuhelut
+    3.  
+
+8. **Usein kysytyt kysymykset**
 
 <a href="https://www.extinctionrebellion.fi">![elokapina logo](https://raw.githubusercontent.com/elokapina/kapinawiki/master/imgs/logo.png)</a>
 
@@ -39,8 +45,8 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 ---
 
 
-<a name="#1">1.0 **XR:n historia**</a>
+<a id="#1">1.0 **XR:n historia**</a>
 Tähän on tulossa lyhyt historiikki Extinction Rebellionista.
 
-<a name="#1.1"></a>
-    1.1 **Rising Up!**-verkosto
+<a id="#1.1">XR:n historia</a>
+    1.1 <a href="#sluettelo">**Rising Up!**-verkosto</a>
