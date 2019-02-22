@@ -37,4 +37,4 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 
 7. **Usein kysytyt kysymykset**
 
-![[elokapina logo](https://www.extinctionrebellion.fi)(https://raw.githubusercontent.com/elokapina/kapinawiki/master/imgs/logo.png)
+<a href="https://www.extinctionrebellion.fi">![elokapina logo](https://raw.githubusercontent.com/elokapina/kapinawiki/master/imgs/logo.png)</a>
