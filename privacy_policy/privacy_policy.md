@@ -33,7 +33,3 @@ Euroopan Unionin yleisen tietosuoja-asetuksen mukaisesti (GDPR) huolehdimme, ett
 * jokaisella EU-kansalaisella on oikeus tarkistaa hänestä tallennetut tiedot, saada tieto siitä miten henkilötiedot on kerätty sekä miten niitä käsitellään ja kenelle niitä annetaan. Lisäksi kansalaisella on oikeus oikaista mahdolliset väärät tiedot sekä poistaa tietonsa rekisteristä halutessaan.
 
 Jos tietosuojakäytännöt askarruttavat, tai haluat käyttää EU-kansalaisena oikeuksiasi, ota meihin yhteyttä (ajankohtaiset yhteydenottotiedot löydät verkkosivuiltamme osoitteesta https://www.extinctionrebellion.fi)
-
-Tietosuojavastaava ja henkilötietojen käsittelyä koskevien asioiden tukihenkilö:
-Ville Saarinen
-xrfinland@protonmail.com
