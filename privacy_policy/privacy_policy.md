@@ -21,9 +21,11 @@ Keräämämme tiedot voivat sisältää seuraavia henkilötietoja:
 * tiedot, jotka mahdollistavat sujuvan kommunikoinnin kanssasi (kuten suosimasi yhteydenpitotapa, kielitieto, sekä asiointiasi koskevat muut tarpeelliset tiedot)
 * mikäli toimit yhtiön tai muun organisaation yhteyshenkilönä, tieto yhtiöstä tai muusta organisaatiosta, jonka palveluksessa toimit, tieto tittelistäsi/asemastasi
 * muut järjestämiemme tapahtumien, kampanjoiden, vapaaehtoistoiminnan asianmukaisen ja onnistuneen järjestämisen, niihin osallistumisen sekä edelleen kehittämisen kannalta tarpeelliset tiedot (kuten tarvittaessa esimerkiksi ruoka-ainerajoitetiedot tapahtuman järjestämisen ajaksi).
-Lahjoituksien ja jäsenmaksujen yhteydessä voimme lisäksi kerätä seuraavia tietoja:
+
+**Lahjoituksien ja jäsenmaksujen yhteydessä voimme lisäksi kerätä seuraavia tietoja:**
 * maksutiedot (kuten pankkitilitiedot)
-Lisäksi sähköisiä palveluitamme käyttäessäsi (kuten foorumi) voimme kerätä seuraavia tietoja:
+
+**Lisäksi sähköisiä palveluitamme käyttäessäsi (kuten foorumi) voimme kerätä seuraavia tietoja:**
 * käyttämääsi laitetta tai yhteyttä koskevat tiedot (kuten laitetunnus, MAC-osoite, laitteistomalli, käyttöjärjestelmä sekä IP-osoite)
 
 #### **Tunne oikeutesi**
