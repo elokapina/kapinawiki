@@ -5,9 +5,9 @@
 
 Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organisaatiorakenteesta sekä ohjeita toimimiseen ja toiminnan suunnitteluun. 
 
-<div id="sluettelo">
+<div id="sluettelo"></div>
 ### **Wikin sisällysluettelo**
-</div>
+
 
 1. **[XR:n historia](#1)**
     1.	**[Rising Up!](#1.1)**-verkosto
@@ -42,13 +42,13 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 
 1. **[XR:n historia](#sluettelo)**  
 Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi RisingUP!-verkoston tuloksena.
-    1. <div id="1.1">**RisingUP!-verkosto**</div>
+    1. **RisingUP!-verkosto** <div id="1.1"></div>
 
-2. **Tavoitteet**
+2. **Tavoitteet** <div id="2"></div>
 
-3. **Toimintaperiaatteet**
-    1.	**Kymmenen työskentelyperiaatetta**
-    2.	**Päätöksenteko, Holokratia**
+3. **Toimintaperiaatteet** <div id="3"></div>
+    1.	**Kymmenen työskentelyperiaatetta** <div id="3.1"></div>
+    2.	**Päätöksenteko, Holokratia** <div id="3.2"></div>
     3.	**Miksi käytämme väkivallatonta kansalaistottelemattomuutta**
     4.	**Uusiutuva kulttuuri**
     5.	**Kokoustekniikka**
