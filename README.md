@@ -37,24 +37,10 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 
 ---
 
-<div id="1"></div>
 1. **XR:n historia**  
 Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi RisingUP!-verkoston tuloksena.
-    <div id="1.1"></div>
     1. **RisingUP!-verkosto** 
-<div id="2"></div>
 2. **Tavoitteet** 
-
-<div id="3"></div>
-3. **Toimintaperiaatteet** 
-    <div id="3.1"></div>
-    1.	**Kymmenen työskentelyperiaatetta**
-    <div id="3.2"></div> 
-    2.	**Päätöksenteko, Holokratia** 
-    3.	**Miksi käytämme väkivallatonta kansalaistottelemattomuutta**
-    4.	**Uusiutuva kulttuuri**
-    5.	**Kokoustekniikka**
-
 3. **Toimintaperiaatteet**
     1.	**Kymmenen työskentelyperiaatetta**
     2.	**Päätöksenteko, Holokratia**
@@ -71,23 +57,17 @@ Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi Risin
         * Suunnitellaan ja toteutetaan selkeä ja läpinäkyvä kurinpidollinen prosessi, jota voidaan käyttää, jos joku on häiritsevä, ahdisteleva ja/tai epäkunnioittava. Tähän voi sisältyä se, että pyydetään ihmisiä jättämään XR.
         * Tuetaan ihmisiä konflitkitilanteissa käyttämällä RisingUpin sovitteluprosessia.
     5.	**Kokoustekniikka**
-
-
 4. **Organisaation rakenne**
     1.	Kansainvälinen organisaatio (ks. viimeisin versio; ei löydy Campaign Overviesta)
     2.	Suomen organisaatio
     3.	Paikallisryhmät
-
 5. **Viestintätavat ja -alustat**
     1.  Tavat
     2.  Alustat
-
 6. **Aktiot**
     1.	Kapinaviikko
     2.	Kuinka järjestää oma kansalaistottelemattomuustempaus
-
 7. **Toiminnan ydinkonseptit**
     1.  Suuntana sukupuutto-puhe
     2.  Kansalliset infopuhelut
-
 8. **Usein kysytyt kysymykset**
