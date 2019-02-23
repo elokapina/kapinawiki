@@ -5,33 +5,34 @@
 
 Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organisaatiorakenteesta sekä ohjeita toimimiseen ja toiminnan suunnitteluun. 
 
+<div id="sluettelo">
 ### **Wikin sisällysluettelo**
-<p id="sluettelo"></p>
+</div>
 
 1. **[XR:n historia](#1)**
     1.	**[Rising Up!](#1.1)**-verkosto
     
 2. **[Tavoitteet](#2)**
 3. **[Toimintaperiaatteet](#3)**
-    1.	Kymmenen työskentelyperiaatetta
-    2.	Päätöksenteko, Holokratia
-    3.	Miksi käytämme väkivallatonta kansalaistottelemattomuutta
-    4.	Uusiutuva kulttuuri
-    5.	Kokoustekniikka
-4. **Organisaation rakenne**
-    1.	Kansainvälinen organisaatio (ks. viimeisin versio; ei löydy Campaign Overviesta)
-    2.	Suomen organisaatio
-    3.	Paikallisryhmät
-5. **Viestintätavat ja -alustat**
-    1.  Tavat
-    2.  Alustat
-6. **Aktiot**
-    1.	Kapinaviikko
-    2.	Kuinka järjestää oma kansalaistottelemattomuustempaus
-7. **Toiminnan ydinkonseptit**
-    1.  Suuntana sukupuutto-puhe
-    2.  Kansalliset infopuhelut
-8. **Usein kysytyt kysymykset**
+    1.	[Kymmenen työskentelyperiaatetta](#3.1)
+    2.	[Päätöksenteko, Holokratia](#3.2)
+    3.	[Miksi käytämme väkivallatonta kansalaistottelemattomuutta](#3.3)
+    4.	[Uusiutuva kulttuuri](#3.4)
+    5.	[Kokoustekniikka](#3.5)
+4. **[Organisaation rakenne](#4)**
+    1.	[Kansainvälinen organisaatio](#4.1) (ks. viimeisin versio; ei löydy Campaign Overviesta)
+    2.	[Suomen organisaatio](#4.2)
+    3.	[Paikallisryhmät](#4.3)
+5. **[Viestintätavat ja -alustat](#5)**
+    1.  [Tavat](#5.1)
+    2.  [Alustat](#5.2)
+6. **[Aktiot](#6)**
+    1.	[Kapinaviikko](#6.1)
+    2.	[Kuinka järjestää oma kansalaistottelemattomuustempaus](#6.2)
+7. **[Toiminnan ydinkonseptit](#7)**
+    1.  [Suuntana sukupuutto-puhe](#7.1)
+    2.  [Kansalliset infopuhelut](#7.2)
+8. **[Usein kysytyt kysymykset](#8)**
 
 <a href="https://www.extinctionrebellion.fi">![elokapina logo](https://raw.githubusercontent.com/elokapina/kapinawiki/master/imgs/logo.png)</a>
 
@@ -39,9 +40,9 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 ---
 
 
-1. **[XR:n historia](#sluettelo)**
+1. **[XR:n historia](#sluettelo)**  
 Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi RisingUP!-verkoston tuloksena.
-    1. **RisingUP!-verkosto**
+    1. <div id="1.1">**RisingUP!-verkosto**</div>
 
 2. **Tavoitteet**
 
