@@ -6,7 +6,7 @@
 Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organisaatiorakenteesta sekä ohjeita toimimiseen ja toiminnan suunnitteluun. 
 
 ### **Wikin sisällysluettelo**
-<a id="#sluettelo">
+<p id="sluettelo"></p>
 
 1. **[XR:n historia](#1)**
     1.	**[Rising Up!](#1.1)**-verkosto
