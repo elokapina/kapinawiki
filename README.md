@@ -38,7 +38,7 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 
 ---
 
-1. **XR:n historia**  
+1. **XR:n historia** <span id="#1"></span>  
     1. **RisingUP!-verkosto ja Elokapina-kampanja**  
     Extinction Rebellionin (Elokapinan) takana on vuonna 2016 perustettu Rising Up! -niminen verkosto, joka on sekoitus tutkijoita ja aktivisteja. Verkoston tarkoituksena on kehittää tehokas aktivismin muoto ympäristöongelmien ratkaisemiseksi. **Extinction rebellion** kampanja käynnistettiin IPCC raportin julkistamisen jälkeen 31.10.2018, josta kävi ilmi, että maailmanlaajuisesti meillä on vain 12 vuotta aikaa vähentää CO2 päästöjä radikaalisti. YK:n sihteeri Antonio Guterres on todennut CO2 [*Naturen* kolumnia](https://www.nature.com/news/three-years-to-safeguard-our-climate-1.22201) mukaillen, että päästöjen vähennykset aloitettava ennen 2019 loppua. YK:n tuoreesta raportista käy lisäksi ilmi, että jäljellä on kaksi vuotta aikaa reagoida biodiversiteetin heikkenemiseen. Mikäli biodiversiteetti pääsee heikkenemään on ihmisten sukupuutto mahdollinen.
     
