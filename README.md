@@ -40,9 +40,13 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 1. **XR:n historia**  
 Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi RisingUP!-verkoston tuloksena.
     1. **RisingUP!-verkosto** 
+    - Extinction Rebellionin (Elokapinan) takana on Rising Up! -niminen verkosto, perustettu 2016
+    - sekoitus tutkijoita ja aktivisteja
+    - tarkoitus kehittää tehokas aktivismin muoto ympäristöongelmien ratkaisemiseksi
+
 2. **Tavoitteet** 
 3. **Toimintaperiaatteet**
-    1.	**Kymmenen työskentelyperiaatetta**
+    1.	**Elokapinan toimintaperiaatteet & arvot**
     
         1 ) MEILLÄ ON YHTEINEN NÄKEMYS MUUTOKSESTA
         
@@ -86,9 +90,10 @@ Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi Risin
         
         Katso [video](https://www.youtube.com/watch?v=iKGQ6WeNbug&index=12&list=PL_JTu8vvTJww46JSUXe4cX_wo-38qgzR4), jossa Roger Hallam selittää Elokapinan periaatteista yksityiskohtaisemmin. Video on tekstitetty suomeksi. 
         
-    2.	**Päätöksenteko, Holokratia**
-    3.	**Miksi käytämme väkivallatonta kansalaistottelemattomuutta**
-    4.  **Uusiutuva kulttuuri**
+    2.	**Toimintaperiaatteet käytännössä**
+    3.   **Päätöksenteko, Holokratia**
+    4.	**Miksi käytämme väkivallatonta kansalaistottelemattomuutta**
+    5.  **Uusiutuva kulttuuri**
         * Rohkaistaan huolenpidon, hoivan ja kunnioituksen kulttuuria.
         * Luodaan toimintatapoja, joiden tarkoituksena on tehdä ihmiset tervetulleiksi mukaan kapinaan ja auttaa heitä tuntemaan olonsa tuetuiksi ja arvostetuiksi.
         * Valmistetaan ihmisiä tulemaan mukaan ja ottamaaan osaa väkivallattomaan suoraan toimintaan / tuetaan eri rooleja tarvittavilla neuvoilla liittyen käytännön ja emotionaaliseen hyvinvointiin.
