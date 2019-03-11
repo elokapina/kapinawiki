@@ -39,70 +39,51 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 ---
 
 1. **XR:n historia**  
-Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi RisingUP!-verkoston tuloksena.
-    1. **RisingUP!-verkosto ja Elokapina-kampanja** 
-    - Extinction Rebellionin (Elokapinan) takana on Rising Up! -niminen verkosto, perustettu 2016
-    - sekoitus tutkijoita ja aktivisteja
-    - tarkoitus kehittää tehokas aktivismin muoto ympäristöongelmien ratkaisemiseksi
-    - XR kampanja käynnistettiin IPCC raportin julkistamisen jälkeen 31.10.2018
-    - mandaatti toimia: vain 12 vuotta aikaa ruveta vähentämään CO2 päästöjä
-    - YK:n sihteeri Guterres: CO2 päästöjen vähennykset aloitettava ennen 2019 loppua
-    - YK:n raportti: kaksi vuotta aikaa reagoida biodiversiteetin heikkenemiseen, ihmisten sukupuutto mahdollinen
-    - Iso uhka: itseään vahvistavat feedbackloopit, joita on mahdoton ennustaa tarkasti: tiedämme kun ne tapahtuu (voi olla myöhäistä)
-    - Olemassaolevien ympäristöjärjestöjen toimet eivät ole riittäviä
-    - XR hakee inspiraatiota Intian kolonialismin vastaisesta liikkeestä ja Yhdysvaltojen 1960-luvun mustien kansalaisoikeusliikkeestä
-    - Laajamittainen väkivallaton kansalaistottelemattomuus on tehokasta ja inklusiivista
+    1. **RisingUP!-verkosto ja Elokapina-kampanja**  
+    Extinction Rebellionin (Elokapinan) takana on vuonna 2016 perustettu Rising Up! -niminen verkosto, joka on sekoitus tutkijoita ja aktivisteja. Verkoston tarkoituksena on kehittää tehokas aktivismin muoto ympäristöongelmien ratkaisemiseksi. **Extinction rebellion** kampanja käynnistettiin IPCC raportin julkistamisen jälkeen 31.10.2018, josta kävi ilmi, että maailmanlaajuisesti meillä on vain 12 vuotta aikaa vähentää CO2 päästöjä radikaalisti. YK:n sihteeri Antonio Guterres on todennut CO2 [*Naturen* kolumnia](https://www.nature.com/news/three-years-to-safeguard-our-climate-1.22201) mukaillen, että päästöjen vähennykset aloitettava ennen 2019 loppua. YK:n tuoreesta raportista käy lisäksi ilmi, että jäljellä on kaksi vuotta aikaa reagoida biodiversiteetin heikkenemiseen. Mikäli biodiversiteetti pääsee heikkenemään on ihmisten sukupuutto mahdollinen.
+    
+        **Suurin uhkatekijä** aiheutuu nk. *itseään vahvistavista takaisinkytkentäsilmukoista*, joita on mahdoton ennustaa etukäteen tarkasti; tiedämme vasta kun ne tapahtuu, jolloin saattaa olla jo liian myöhäistä. XR:n positio on, että olemassaolevien ympäristöjärjestöjen toimet eivät ole riittäviä suhteessa tilanteen vakavuuteen. XR hakee inspiraatiota mm. Intian kolonialismin vastaisesta liikkeestä ja Yhdysvaltojen 1960-luvun mustien kansalaisoikeusliikkeestä. Nykyiseen yhteiskuntatieteelliseen tutkimukseen nojautuen, XR suosii laajamittaista väkivallatonta kansalaistottelemattomuutta tehokkaimpana ja inklusiivisimpana tunnettuna toimintamuotona.
     
 2. **Tavoitteet** 
 
-    1 )	Hallituksen on kerrottava totuus ekologisesta hätätilasta, peruttava hätätilaa pahentavat toimet ja toimittava yhdessä tiedotusvälineiden kanssa kansalaisten valistamiseksi.
+    ***1 )	Hallituksen on kerrottava totuus ekologisesta hätätilasta,*** peruttava hätätilaa pahentavat toimet ja toimittava yhdessä tiedotusvälineiden kanssa kansalaisten valistamiseksi.
     
-    2 ) Hallituksen on pantava täytäntöön hiilidioksidipäästöjen pudottaminen nollaan vuoteen 2025 mennessä ja rajoitettava Suomen ekologinen jalanjälki vastaamaan suhteellisesti puolen planeetan rajoja.
+    ***2 ) Hallituksen on pantava täytäntöön hiilidioksidipäästöjen pudottaminen nollaan vuoteen 2025 mennessä*** ja rajoitettava Suomen ekologinen jalanjälki vastaamaan suhteellisesti puolen planeetan rajoja.
 
-    3 ) Kansankokoukset on asetettava valvomaan näitä muutoksia, osana muutosta vastaavan demokratian perustamista.
+    ***3 ) Kansankokoukset on asetettava valvomaan päästötavoitteiden toteutumiista,*** osana muutosta tukevan demokraattisen kulttuurin toteuttamista.
 
 3. **Toimintaperiaatteet**
     1.	**Elokapinan toimintaperiaatteet & arvot**
     
-        1 ) MEILLÄ ON YHTEINEN NÄKEMYS MUUTOKSESTA
+        1 ) **Meillä on yhteinen käsitys muutoksesta**  
+        Haluamme maailman, jossa tulevatkin sukupolvet voivat elää.
         
-        Luomme maailman, jossa tulevatkin sukupolvet voivat elää. 
+        2 ) **Tehtävämme on välttämätön**  
+        Pyrimme mobilisoimaan 3,5 % väestöstä, jotta yhteiskuntajärjestelmän muutos on mahdollinen.
         
-        2 ) ASETAMME TEHTÄVÄKSEMME VÄLTTÄMÄTTÖMÄN
-        
-        Mobilisoimme 3,5 % väestöstä, jotta yhteiskuntajärjestelmän muutos on mahdollinen * – sen saavuttamiseksi käytämme  voimavaroinamme esimerkiksi Momentum-mallia**. 
-        
-        3 ) TARVITSEMME UUDISTUVAN KULTTUURIN
-        
+        3 ) **Luomme uusiutuvan kulttuurin**  
         Luomme toimintakulttuurin, joka on terve, joustava ja muokattavissa. 
         
-        4 ) HAASTAMME AVOIMESTI SEKÄ ITSEMME ETTÄ NYKYISEN TOKSISEN SYSTEEMIN. 
+        4 ) **Haastamme avoimesti sekä itsemme että nykyisen toksisen järjestelmän**  
+        Hakeudumme aktiivisesti pois mukavuusalueiltamme, jotta toimintamme yltää tarvittavaan muutokseen.
         
-        Poistumme mukavuusalueiltamme ryhtyäksemme muutosta edellyttävään toimintaan. 
+        5 ) **Arvostamme reflektointia ja oppimista**  
+        Toteutamme syklistä toimintatapaa: toiminta, oppiminen, tulevan toiminnan suunnittelu. Opimme niin muista liikkeistä ja konteksteista kuin omista kokemuksistamme.
         
-        5 ) ARVOSTAMME REFLEKTOINTIA JA OPPIMISTA
+        6 ) **Toivotamme tervetulleiksi jokaisen omana itsenään**  
+        Työskentelemme aktiivisesti turvallisten ja esteettömämpien tilojen luomiseksi.
         
-        Toteutamme syklistä toimintatapaa: toiminta, oppiminen, tulevan toiminnan suunnittelu. Opimme niin muista liikkeistä ja     konteksteista kuin omista kokemuksistamme. 
-        
-        6 ) TOIVOTAMME TERVETULLEIKSI JOKAISEN OMANA ITSENÄÄN
-        
-        Työskentelemme aktiivisesti turvallisten ja esteettömämpien tilojen luomiseksi. 
-        
-        7 ) PURAMME AKTIIVISESTI VALTAA 
-        
+        7 ) **Puramme aktiivisesti valtarakenteita**
         Puramme hierarkioita mahdollistaaksemme tasa-arvoisen osallistumisen.
         
-        8 ) VÄLTÄMME SYYLLISTÄMISTÄ JA HÄPEÄÄN SAATTAMISTA
+        8 ) **Vältämme syyllistämistä ja häpeään saattamista**  
+        Elämme toksisessa järjestelmässä. Siten kukaan yksilö ei yksin ole syyllinen järjestelmän tilaan.
         
-        Elämme toksisessa järjestelmässä, mutta kukaan yksilö yksin ei ole syypää siihen. 
+        9 ) **Olemme väkivallaton verkosto**  
+        Käytämme väkivallatonta strategiaa ja taktiikoita tehokkaimpina keinoina muutokseen.
         
-        9 ) OLEMME VÄKIVALLATON VERKOSTO
-        
-        Käytämme väkivallatonta strategiaa ja taktiikoita tehokkaimpina keinoina muutokseen. 
-        
-        10 ) TOIMINTAMME PERUSTUU AUTONOMIAAN JA HAJAUTTAMISEEN
-        
-        Luomme kollektiivisesti rakenteet, jotka tarvitsemme vallan haastamiseen.
+        10 ) **Toimintamme perustuu autonomiaan ja hajauttamiseen**  
+        Kollektiivinen voimamme rakentuu muutoskykyisistä autonomisista pienyksiköistä, joiden avulla voimme haastaa nykyiset valtarakenteet.
         
         Katso [video](https://www.youtube.com/watch?v=iKGQ6WeNbug&index=12&list=PL_JTu8vvTJww46JSUXe4cX_wo-38qgzR4), jossa Roger Hallam selittää Elokapinan periaatteista yksityiskohtaisemmin. Video on tekstitetty suomeksi. 
         
