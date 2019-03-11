@@ -40,12 +40,27 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 
 1. **XR:n historia**  
 Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi RisingUP!-verkoston tuloksena.
-    1. **RisingUP!-verkosto** 
+    1. **RisingUP!-verkosto ja Elokapina-kampanja** 
     - Extinction Rebellionin (Elokapinan) takana on Rising Up! -niminen verkosto, perustettu 2016
     - sekoitus tutkijoita ja aktivisteja
     - tarkoitus kehittää tehokas aktivismin muoto ympäristöongelmien ratkaisemiseksi
-
+    - XR kampanja käynnistettiin IPCC raportin julkistamisen jälkeen 31.10.2018
+    - mandaatti toimia: vain 12 vuotta aikaa ruveta vähentämään CO2 päästöjä
+    - YK:n sihteeri Guterres: CO2 päästöjen vähennykset aloitettava ennen 2019 loppua
+    - YK:n raportti: kaksi vuotta aikaa reagoida biodiversiteetin heikkenemiseen, ihmisten sukupuutto mahdollinen
+    - Iso uhka: itseään vahvistavat feedbackloopit, joita on mahdoton ennustaa tarkasti: tiedämme kun ne tapahtuu (voi olla myöhäistä)
+    - Olemassaolevien ympäristöjärjestöjen toimet eivät ole riittäviä
+    - XR hakee inspiraatiota Intian kolonialismin vastaisesta liikkeestä ja Yhdysvaltojen 1960-luvun mustien kansalaisoikeusliikkeestä
+    - Laajamittainen väkivallaton kansalaistottelemattomuus on tehokasta ja inklusiivista
+    
 2. **Tavoitteet** 
+
+    1 )	Hallituksen on kerrottava totuus ekologisesta hätätilasta, peruttava hätätilaa pahentavat toimet ja toimittava yhdessä tiedotusvälineiden kanssa kansalaisten valistamiseksi.
+    
+    2 ) Hallituksen on pantava täytäntöön hiilidioksidipäästöjen pudottaminen nollaan vuoteen 2025 mennessä ja rajoitettava Suomen ekologinen jalanjälki vastaamaan suhteellisesti puolen planeetan rajoja.
+
+    3 ) Kansankokoukset on asetettava valvomaan näitä muutoksia, osana muutosta vastaavan demokratian perustamista.
+
 3. **Toimintaperiaatteet**
     1.	**Elokapinan toimintaperiaatteet & arvot**
     
