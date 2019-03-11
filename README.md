@@ -12,11 +12,12 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
     1.	**[Rising Up!](#1.1)**-verkosto
 2. **[Tavoitteet](#2)**
 3. **[Toimintaperiaatteet](#3)**
-    1.	[Kymmenen työskentelyperiaatetta](#3.1)
-    2.	[Päätöksenteko, Holokratia](#3.2)
-    3.	[Miksi käytämme väkivallatonta kansalaistottelemattomuutta](#3.3)
-    4.	[Uusiutuva kulttuuri](#3.4)
-    5.	[Kokoustekniikka](#3.5)
+    1.	[Elokapinan periaatteet ja arvot](#3.1)
+    2.  [Työskentelyperiaatteet käytännössä](#3.2.)
+    3.	[Päätöksenteko, Holokratia](#3.3)
+    4.	[Miksi käytämme väkivallatonta kansalaistottelemattomuutta](#3.4)
+    5.	[Uusiutuva kulttuuri](#3.5)
+    6.	[Kokoustekniikka](#3.6)
 4. **[Organisaation rakenne](#4)**
     1.	[Kansainvälinen organisaatio](#4.1) (ks. viimeisin versio; ei löydy Campaign Overviesta)
     2.	[Suomen organisaatio](#4.2)
