@@ -9,7 +9,7 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 ### **Wikin sisällysluettelo**
 
 1. **[XR:n historia](#1)**
-    1.	**[Rising Up!-verkosto ja Elokapina-kampanja](#1.1)
+    1.	**[Rising Up!-verkosto ja Elokapina-kampanja](#1.1)**
 2. **[Tavoitteet](#2)**
 3. **[Toimintaperiaatteet](#3)**
     1.	[Elokapinan periaatteet ja arvot](#3.1)
