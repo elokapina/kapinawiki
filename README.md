@@ -71,3 +71,4 @@ Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi Risin
     1.  Suuntana sukupuutto-puhe
     2.  Kansalliset infopuhelut
 8. **Usein kysytyt kysymykset**
+    1.  Kuinka perustaa paikallisryhmä?
