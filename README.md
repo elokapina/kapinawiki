@@ -43,6 +43,49 @@ Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi Risin
 2. **Tavoitteet** 
 3. **Toimintaperiaatteet**
     1.	**Kymmenen työskentelyperiaatetta**
+    
+        1 ) MEILLÄ ON YHTEINEN NÄKEMYS MUUTOKSESTA
+        
+        Luomme maailman, jossa tulevatkin sukupolvet voivat elää. 
+        
+        2 ) ASETAMME TEHTÄVÄKSEMME VÄLTTÄMÄTTÖMÄN
+        
+        Mobilisoimme 3,5 % väestöstä, jotta yhteiskuntajärjestelmän muutos on mahdollinen * – sen saavuttamiseksi käytämme  voimavaroinamme esimerkiksi Momentum-mallia**. 
+        
+        3 ) TARVITSEMME UUDISTUVAN KULTTUURIN
+        
+        Luomme toimintakulttuurin, joka on terve, joustava ja muokattavissa. 
+        
+        4 ) HAASTAMME AVOIMESTI SEKÄ ITSEMME ETTÄ NYKYISEN TOKSISEN SYSTEEMIN. 
+        
+        Poistumme mukavuusalueiltamme ryhtyäksemme muutosta edellyttävään toimintaan. 
+        
+        5 ) ARVOSTAMME REFLEKTOINTIA JA OPPIMISTA
+        
+        Toteutamme syklistä toimintatapaa: toiminta, oppiminen, tulevan toiminnan suunnittelu. Opimme niin muista liikkeistä ja     konteksteista kuin omista kokemuksistamme. 
+        
+        6 ) TOIVOTAMME TERVETULLEIKSI JOKAISEN OMANA ITSENÄÄN
+        
+        Työskentelemme aktiivisesti turvallisten ja esteettömämpien tilojen luomiseksi. 
+        
+        7 ) PURAMME AKTIIVISESTI VALTAA 
+        
+        Puramme hierarkioita mahdollistaaksemme tasa-arvoisen osallistumisen.
+        
+        8 ) VÄLTÄMME SYYLLISTÄMISTÄ JA HÄPEÄÄN SAATTAMISTA
+        
+        Elämme toksisessa järjestelmässä, mutta kukaan yksilö yksin ei ole syypää siihen. 
+        
+        9 ) OLEMME VÄKIVALLATON VERKOSTO
+        
+        Käytämme väkivallatonta strategiaa ja taktiikoita tehokkaimpina keinoina muutokseen. 
+        
+        10 ) TOIMINTAMME PERUSTUU AUTONOMIAAN JA HAJAUTTAMISEEN
+        
+        Luomme kollektiivisesti rakenteet, jotka tarvitsemme vallan haastamiseen.
+        
+        Katso [video](https://www.youtube.com/watch?v=iKGQ6WeNbug&index=12&list=PL_JTu8vvTJww46JSUXe4cX_wo-38qgzR4), jossa Roger Hallam selittää Elokapinan periaatteista yksityiskohtaisemmin. Video on tekstitetty suomeksi. 
+        
     2.	**Päätöksenteko, Holokratia**
     3.	**Miksi käytämme väkivallatonta kansalaistottelemattomuutta**
     4.  **Uusiutuva kulttuuri**
@@ -71,4 +114,3 @@ Tähän on tulossa lyhyt historiikki Extinction Rebellionista, joka syntyi Risin
     1.  Suuntana sukupuutto-puhe
     2.  Kansalliset infopuhelut
 8. **Usein kysytyt kysymykset**
-    1.  Kuinka perustaa paikallisryhmä?
