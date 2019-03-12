@@ -108,6 +108,27 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 - Konfliktit ja henkilökohtainen kritiikki tulisi pitää sosiaalisen median ulkopuolella.
 
     3.   **Päätöksenteko, Holokratia**
+ 
+Holakratia on kehitetty informaatioteknologiayritysten nopean oppimisen, innovaatioiden toteuttamisen ja uudelleen suuntautumisen tarpeita ajavana johtamisjärjestelmänä. Tästä johtuen se painottaa tekemistä pitkällisen suunnittelun sijaan. Johtamisjärjestelmä on kuvattu yksityiskohtaisesti Brian J. Robertsonin kirjassa Holacracy. Seuraava lista holokratian periaatteista ei ole tyhjentävä vaan suuntaa antava. Elokapinassa sovelletaan holokratiaa maalaisjärjellä ryyditettynä.
+
+1.	Ihmisillä on taitoihin perustuvia rooleja, ei titteleitä. Samalla ihmisellä voi olla useampia rooleja eri ympyröissä. Ympyrät muodostavat holokratian rakenteen.
+
+2.	Ympyrät ovat autonomisia ja päättävät oman aihealueensa asioista itsevaltaisesti. Päätökset eivät perustu konsensukseen. Käytännössä jokainen päätös menee läpi, jollei: a. Ympyrällä ei ole asiaan liittyvää toimivaltuutta, vaan asia koskee toista ympyrää ja/tai b. On ilmeistä, että päätös aiheuttaa vakavaa haittaa koko organisaatiolle, jota sen ei ole mahdollista estää, esim. taloudellisia ongelmia tai maineen menetyksen. Vastalauseeksi päätökselle ei riitä, että se ei ole paras mahdollinen idea. Jos idea ei toimi käytännössä, kuka tahansa voi muuttaa sitä myöhemmin.
+
+3.	Ympyrät ovat hierarkkisissa suhteissa alempiin ympyröihin ja ympyrällä on ”johtava linkki”. Yhdellä ympyrällä voi olla sen tehtäväalueeseen liittyviä alisteisia ympyröitä, joiden tehtävistä, olemassaolosta ja uudelleen muodostuksesta ympyrä tekee päätöksiä. Ympyrän ”johtava linkki” delegoi ihmisille rooleja, muttei kerro heille, kuinka rooli tulee täyttää.
+
+4.	Ympyrästä kaksi jäsentä (johtava linkki ja raportoiva linkki) osallistuu koko organisaation kokouksiin ja huolehtii, että informaatio kulkee molempiin suuntiin ja ympyrän työ on osa organisaation visiota.
+
+5.	Ympyrät pitävät säännöllisesti hallintakokouksia (esim. kerran kuussa), jossa jokainen voi tehdä ehdotuksia tiimien, roolien, vastuualueiden ja toimintatapojen muutoksesta.
+
+6.	Läpinäkyvyys on ensisijaista yksityisyyteen nähden. Organisaation päätöksien taustat ovat kaikkien organisaation jäsenien saatavilla yhteisellä alustalla (suositeltuja alustoja esim. Yammer, Asana, Trello, Slack, ja HipChat) ja niistä voi keskustella.
+
+7.	Organisaation strategiaa päivitetään koko ajan, eikä tulevaisuutta yritetä ennustaa vaan tehdään oletuksia suunnista.
+
+8.	Käytännön holokraattisen päätöksenteon tukena voi käyttää Glassfrog-nimistä sovellusta. Holokratian peruskirja yksityiskohtaisine sääntöineen löytyy [täältä](https://www.holacracy.org/constitution).
+
+Lue foorumiltamme [ketju Elokapinan päätöksentekotavasta.](https://base.extinctionrebellion.fi/t/elokapinan-organisaation-paatoksentekotapa/36)
+
     4.	**Miksi käytämme väkivallatonta kansalaistottelemattomuutta**
     5.  **Uusiutuva kulttuuri**
         * Rohkaistaan huolenpidon, hoivan ja kunnioituksen kulttuuria.
