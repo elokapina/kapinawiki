@@ -147,7 +147,15 @@ Väkivallattomien kapinoiden ja kansannousujen teho perustuu siihen, että ne ke
         * Tuetaan työ/lähiryhmiä luomaan ja toteuttamaan käytännöllisiä ja emotionaalisia palautesessioita kampanjan jälkeen. Nämä tilaisuudet fasilitoidaan ja perustuvat väkivallattoman vuorovaikutuksen periaatteisiin.
         * Suunnitellaan ja toteutetaan selkeä ja läpinäkyvä kurinpidollinen prosessi, jota voidaan käyttää, jos joku on häiritsevä, ahdisteleva ja/tai epäkunnioittava. Tähän voi sisältyä se, että pyydetään ihmisiä jättämään XR.
         * Tuetaan ihmisiä konflitkitilanteissa käyttämällä RisingUpin sovitteluprosessia.
-    5.	**Kokoustekniikka**
+    
+   6.	**Kokoustekniikka**
+   
+   * Valitkaa fasilitaattori, joka pitää huolta, että esityslistan asiat ehditään käymään läpi ja kokouksen osaanottajilla on yhteinen näkemys, mistä päätetään. ([ks. fasilitointiohjeet](https://base.extinctionrebellion.fi/t/fasilitointiohjeet-ja-suositeltu-kokousten-rakenne/57))
+   * Valitkaa pöytäkirjan kirjoittaja, joka pitää huolta, että kokouksen päätökset kirjataan ylös. Pöytäkirjan malli löytyy em. fasilitointiohjeista.
+   * Aloittakaa ja lopettakaa kokous jakamalla osaanottajien tuntemukset ennen ja jälkeen kokouksen. Check-inissä ja check-outissa mainittuja asioita ei kirjata ylös.
+   * Etäkokousta varten käyttäkää turvallista videopuheluyhteyttä https://meet.extinctionrebellion.fi
+   * Ladatkaa pöytäkirjat Elokapinan pilveen https://cloud.extinctionrebellion.fi Pyydä tunnukset xrfinland@protonmail.com
+
 4. **Organisaation rakenne**
     1.	Kansainvälinen organisaatio (ks. viimeisin versio; ei löydy Campaign Overviesta)
     2.	Suomen organisaatio
