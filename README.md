@@ -88,6 +88,25 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
         Katso [video](https://www.youtube.com/watch?v=iKGQ6WeNbug&index=12&list=PL_JTu8vvTJww46JSUXe4cX_wo-38qgzR4), jossa Roger Hallam selittää Elokapinan periaatteista yksityiskohtaisemmin. Video on tekstitetty suomeksi. 
         
     2.	**Toimintaperiaatteet käytännössä**
+
+● Kapinamme on sitoutunut väkivallattomuuteen sekä sisäisesti että ulkoisesti
+
+● Ulkopuolisia ns. vastustajia kohtaan tämä tarkoittaa, että olemme kohteliaita ja kunnioittavia myös silloin, kun meitä provosoidaan. Tämä koskee myös suhteessa poliisiin ja vartijoihin.
+
+● Sisäisesti tämä tarkoittaa toistemme kunnioittamista - kuuntelemista puhumatta päälle (älä puhu liian kauan!), pyytämistä anteeksi virheiden tapahtuessa ja kritiikin kohdistamista tekoihin, ei ihmisiin.
+
+● Järjestäydymme hajautetusti siten, että työryhmät ja henkilöt, jotka ottavat vastuuta, ovat itsenäisiä, jotta he voivat hoitaa tehtävänsä parhaalla mahdollisella tavalla. Kuitenkin päätösten tulee perustua muilta ihmisiltä saatuun palautteeseen. Koordinoiva ryhmä tekee kampanjan puolesta päätöksiä ennalta sovitun toimintasuunnitelman perusteella ja kuultuaan palautetta.
+
+● Kaikkia kapinan luomiseen osallistuvia henkilöitä kunnioitetaan yhtä lailla riippumatta heidän roolistaan, riippumatta siitä, tukevatko he vai osallistuvatko he. Olemme kaikki osa samaa tiimiä.
+
+● Ei ole minkäänlaista painetta ottaa roolia tai työtä, mutta jos teet sen, sinun odotetaan suorittavan sen ja tekevän sen parhaalla osaamallasi tavalla. Jos et pysty suorittamaan tehtävää, kysy apua mahdollisimman pian.
+
+● Toimet toteutetaan avoimesti, jotta ihmiset Elokapinassa, lehdistössä ja oppositiossa tietävät kampanjan yleisen laajenemissuunnitelman. Samalla aktioiden tarkat toiminnalliset yksityiskohdat ovat tiedossa vain niillä, jotka osallistuvat, eikä niitä jaeta muille, jotta aktiot pystytään toteuttamaan.
+
+● Kapinointi perustuu yleisön ja opposition moraaliin vetoamiseen, ja pyrimme järjestämään niin vaikuttavaa toimintaa kuin pystymme irtautuen sen lopputuloksista. Tällä tavoin pyrimme välttämään petetyistä odotuksista johtuvan motivaation katoamisen.
+
+● Konfliktit ja henkilökohtainen kritiikki tulisi pitää sosiaalisen median ulkopuolella.
+
     3.   **Päätöksenteko, Holokratia**
     4.	**Miksi käytämme väkivallatonta kansalaistottelemattomuutta**
     5.  **Uusiutuva kulttuuri**
