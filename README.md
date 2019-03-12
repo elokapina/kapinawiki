@@ -127,10 +127,16 @@ Holakratia on kehitetty informaatioteknologiayritysten nopean oppimisen, innovaa
 
 8.	Käytännön holokraattisen päätöksenteon tukena voi käyttää Glassfrog-nimistä sovellusta. Holokratian peruskirja yksityiskohtaisine sääntöineen löytyy [täältä](https://www.holacracy.org/constitution).
 
-Lue foorumiltamme [ketju Elokapinan päätöksentekotavasta.](https://base.extinctionrebellion.fi/t/elokapinan-organisaation-paatoksentekotapa/36)
+    Lue foorumiltamme [ketju Elokapinan päätöksentekotavasta.](https://base.extinctionrebellion.fi/t/elokapinan-organisaation-paatoksentekotapa/36)
 
     4.	**Miksi käytämme väkivallatonta kansalaistottelemattomuutta**
-    5.  **Uusiutuva kulttuuri**
+    
+**Väkivallaton suora toiminta on tehokkaampaa kuin väkivaltainen suora toiminta.**
+Turvallisuustutkijat (kansainvälisten suhteiden erikoisala, “Security Studies”) ovat tutkineet kapinoita ja kansannousuja 1800-luvulta nykypäivään, 300 tutkitusta kapinasta tai kansannoususta menestyksekkäistä 54 % oli väkivallattomia ja 25 % väkivaltaisia. Väkivaltaisista ns. onnistuneista kapinoista tai kansannousuista vain 1/20 johti rauhanomaiseen yhteiskuntaan viiden vuoden sisällä kapinasta tai kansannoususta.
+
+Väkivallattomien kapinoiden ja kansannousujen teho perustuu siihen, että ne kerää helpommin kriittisen massan ihmisiä. Suuri osa ihmisistä ei pidä väkivallasta, eikä kipu houkuttele monia. Väkivallattomuus mahdollistaa fyysiseltä rakenteeltaan heikompien tai hauraampien ihmisten osallistumisen (esim. vanhukset, vammaiset, lapset, raskaana olevat jne.)
+
+   5.  **Uusiutuva kulttuuri**
         * Rohkaistaan huolenpidon, hoivan ja kunnioituksen kulttuuria.
         * Luodaan toimintatapoja, joiden tarkoituksena on tehdä ihmiset tervetulleiksi mukaan kapinaan ja auttaa heitä tuntemaan olonsa tuetuiksi ja arvostetuiksi.
         * Valmistetaan ihmisiä tulemaan mukaan ja ottamaaan osaa väkivallattomaan suoraan toimintaan / tuetaan eri rooleja tarvittavilla neuvoilla liittyen käytännön ja emotionaaliseen hyvinvointiin.
