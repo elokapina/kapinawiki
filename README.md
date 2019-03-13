@@ -13,7 +13,7 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
 2. **[Tavoitteet](#2)**
 3. **[Toimintaperiaatteet](#3)**
     1.	[Elokapinan periaatteet ja arvot](#3.1)
-    2.  [Työskentelyperiaatteet käytännössä](#3.2.)
+    2.  [Työskentelyperiaatteet käytännössä](#3.2)
     3.	[Päätöksenteko, Holokratia](#3.3)
     4.	[Miksi käytämme väkivallatonta kansalaistottelemattomuutta](#3.4)
     5.	[Uusiutuva kulttuuri](#3.5)
