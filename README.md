@@ -46,43 +46,43 @@ Täältä löydät tarkemman kuvauksen Elokapinan toimintaperiaatteista ja organ
     
 ## 2. **Tavoitteet**  <span id="2"></span>  
 
-  ***1. Hallituksen on kerrottava totuus ekologisesta hätätilasta,*** peruttava hätätilaa pahentavat toimet ja toimittava yhdessä tiedotusvälineiden kanssa kansalaisten valistamiseksi.
+  1. ***Hallituksen on kerrottava totuus ekologisesta hätätilasta,*** peruttava hätätilaa pahentavat toimet ja toimittava yhdessä tiedotusvälineiden kanssa kansalaisten valistamiseksi.
     
-  ***2. Hallituksen on pantava täytäntöön hiilidioksidipäästöjen pudottaminen nollaan vuoteen 2025 mennessä*** ja rajoitettava Suomen ekologinen jalanjälki vastaamaan suhteellisesti puolen planeetan rajoja.
+  2. ***Hallituksen on pantava täytäntöön hiilidioksidipäästöjen pudottaminen nollaan vuoteen 2025 mennessä*** ja rajoitettava Suomen ekologinen jalanjälki vastaamaan suhteellisesti puolen planeetan rajoja.
 
-  ***3. Demokraattisesti valitut kansankokoukset on asetettava valvomaan päästötavoitteiden toteutumista.***  Näin olemme luomassa muutosta tukevaa tasa-arvoista ja demokraattista kulttuuria.
+  3. ***Demokraattisesti valitut kansankokoukset on asetettava valvomaan päästötavoitteiden toteutumista.***  Näin olemme luomassa muutosta tukevaa tasa-arvoista ja demokraattista kulttuuria.
 
 ## 3. **Toimintaperiaatteet**  <span id="3"></span>  
 ### 3.1 **Elokapinan toimintaperiaatteet & arvot**  <span id="3.1"></span>  
 
-  1 ) **Meillä on yhteinen käsitys muutoksesta**  
+  1. **Meillä on yhteinen käsitys muutoksesta**  
       Haluamme maailman, jossa tulevatkin sukupolvet voivat elää.  
       
-  2 ) **Tehtävämme on välttämätön**  
+  2. **Tehtävämme on välttämätön**  
       Pyrimme mobilisoimaan 3,5 % väestöstä, jotta yhteiskuntajärjestelmän muutos on mahdollinen.
       
-  3 ) **Luomme uusiutuvan kulttuurin**  
+  3. **Luomme uusiutuvan kulttuurin**  
       Luomme toimintakulttuurin, joka on terve, joustava ja muokattavissa. 
       
-  4 ) **Haastamme avoimesti sekä itsemme että nykyisen toksisen järjestelmän**  
+  4. **Haastamme avoimesti sekä itsemme että nykyisen toksisen järjestelmän**  
       Hakeudumme aktiivisesti pois mukavuusalueiltamme, jotta toimintamme yltää tarvittavaan muutokseen.
       
-  5 ) **Arvostamme reflektointia ja oppimista**  
+  5. **Arvostamme reflektointia ja oppimista**  
       Toteutamme syklistä toimintatapaa: toiminta, oppiminen, tulevan toiminnan suunnittelu. Opimme niin muista liikkeistä ja konteksteista kuin omista kokemuksistamme.
       
-  6 ) **Toivotamme tervetulleiksi jokaisen omana itsenään**  
+  6. **Toivotamme tervetulleiksi jokaisen omana itsenään**  
       Työskentelemme aktiivisesti turvallisten ja esteettömämpien tilojen luomiseksi.
       
-  7 ) **Puramme aktiivisesti valtarakenteita**
+  7. **Puramme aktiivisesti valtarakenteita**
       Puramme hierarkioita mahdollistaaksemme tasa-arvoisen osallistumisen.
       
-  8 ) **Vältämme syyllistämistä ja häpeään saattamista**  
+  8. **Vältämme syyllistämistä ja häpeään saattamista**  
       Elämme toksisessa järjestelmässä. Siten kukaan yksilö ei yksin ole syyllinen järjestelmän tilaan.
       
-  9 ) **Olemme väkivallaton verkosto**  
+  9. **Olemme väkivallaton verkosto**  
       Käytämme väkivallatonta strategiaa ja taktiikoita tehokkaimpina keinoina muutokseen.
       
-  10 ) **Toimintamme perustuu autonomiaan ja hajauttamiseen**  
+  10. **Toimintamme perustuu autonomiaan ja hajauttamiseen**  
       Kollektiivinen voimamme rakentuu muutoskykyisistä autonomisista pienyksiköistä, joiden avulla voimme haastaa nykyiset valtarakenteet.
       
   Katso [video](https://www.youtube.com/watch?v=iKGQ6WeNbug&index=12&list=PL_JTu8vvTJww46JSUXe4cX_wo-38qgzR4), jossa Roger Hallam selittää Elokapinan periaatteista yksityiskohtaisemmin. Video on tekstitetty suomeksi. 
