@@ -158,6 +158,33 @@ Turvallisuustutkijat (kansainvälisten suhteiden erikoisala, “Security Studies
 ## 4. **Organisaation rakenne**  <span id="4"></span>  
 ### 4.1 Kansainvälinen organisaatio (ks. viimeisin versio; ei löydy Campaign Overviesta) <span id="4.1"></span>  
 ### 4.2	Suomen organisaatio <span id="4.2"></span>
+
+Suomen Elokapina noudattaa sovelletusti Iso-Britannian Extinction Rebellionin **Campaign Overview** -asiakirjassa ohjeistamaa organisaatiorakennetta. Suomen Elokapinalla on kirjoitushetkellä 17.3.2019 seitsemän työryhmää, jotka toimivat holokraattisesti. Työryhmät ovat:
+
+    1. Uusiutuva kulttuuri
+    2. Kontaktointi ja koulutus
+       * alaryhmät:
+            - Tutkimus
+            - Kääntäminen
+    3. Toiminta ja logistiikka
+        * alaryhmät:
+            - väliaikaiset aktioryhmät, esim. Kapinaviikkoryhmä
+    4. Taide
+        * alaryhmät:
+            - Musiikki
+    5. Infrastruktuuri
+        * alaryhmät:
+            - Rahoitus
+            - Lakiasiat
+    6. Media ja viestintä
+        * alaryhmät:
+            - Grafiikka
+    7. Koordinointi
+        * alaryhmät:
+            - Kansainvälinen yhteistyö
+
+Jokaisella työryhmällä on vähintään yksi koordinaattori, mielellään kaksi koordinaattoria, ja he kuuluvat myös Koordinointiryhmään. Työryhmät voivat tehdä autonomisesti päätöksiä työryhmänsä ydintehtäviä koskevista asioista. Asiat, jotka ylittävät työryhmän valtuudet, käsitellään yhteisesti yleiskokouksissa. Näissä asioissa työryhmät voivat valmistella perustellun suosituksen yleiskokoukselle, josta Koordinaatioryhmä äänestää. Yksi henkilö voi kuulua taitojensa ja kiinnostuksiensa mukaan yhteen tai useampaan työryhmään. 
+
 ### 4.3	Paikallisryhmät <span id="4.3"></span>
 ## 5. **Viestintätavat ja -alustat** <span id="5"></span>
 ### 5.1 Tavat <span id="5.1"></span>
