@@ -157,42 +157,76 @@ Turvallisuustutkijat (kansainvälisten suhteiden erikoisala, “Security Studies
 
 ## 4. **Organisaation rakenne**  <span id="4"></span>  
 ### 4.1 Kansainvälinen organisaatio (ks. viimeisin versio; ei löydy Campaign Overviesta) <span id="4.1"></span>  
-### 4.2	Suomen organisaatio <span id="4.2"></span>
+### 4.2	Suomen kansallinen organisaatio <span id="4.2"></span>
 
-Suomen Elokapina noudattaa sovelletusti Iso-Britannian Extinction Rebellionin **Campaign Overview** -asiakirjassa ohjeistamaa organisaatiorakennetta. Suomen Elokapinalla on kirjoitushetkellä 17.3.2019 seitsemän työryhmää, jotka toimivat holokraattisesti. Työryhmät ovat:
+Suomen Elokapina noudattaa sovelletusti Iso-Britannian Extinction Rebellionin [**Campaign Overview**](https://cloud.extinctionrebellion.fi/index.php/s/ndNE8E7B7Gfi8rW) -asiakirjassa ohjeistamaa organisaatiorakennetta. Suomen Elokapinalla on kirjoitushetkellä 17.3.2019 seitsemän työryhmää, jotka toimivat holokraattisesti. Työryhmät ovat:
 
-    1. Uusiutuva kulttuuri
-    2. Kontaktointi ja koulutus
+   1. Uusiutuva kulttuuri
+   2. Kontaktointi ja koulutus
+      * alaryhmät:
+           - Tutkimus
+           - Kääntäminen
+   3. Toiminta ja logistiikka
        * alaryhmät:
-            - Tutkimus
-            - Kääntäminen
-    3. Toiminta ja logistiikka
-        * alaryhmät:
-            - väliaikaiset aktioryhmät, esim. Kapinaviikkoryhmä
-    4. Taide
-        * alaryhmät:
-            - Musiikki
-    5. Infrastruktuuri
-        * alaryhmät:
-            - Rahoitus
-            - Lakiasiat
-    6. Media ja viestintä
-        * alaryhmät:
-            - Grafiikka
-    7. Koordinointi
-        * alaryhmät:
-            - Kansainvälinen yhteistyö
+           - väliaikaiset aktioryhmät, esim. Kapinaviikkoryhmä
+   4. Taide
+       * alaryhmät:
+           - Musiikki
+   5. Infrastruktuuri
+       * alaryhmät:
+           - Rahoitus
+           - Lakiasiat
+   6. Media ja viestintä
+       * alaryhmät:
+           - Grafiikka
+   7. Koordinointi
+       * alaryhmät:
+           - Kansainvälinen yhteistyö
 
-Jokaisella työryhmällä on vähintään yksi koordinaattori, mielellään kaksi koordinaattoria, ja he kuuluvat myös Koordinointiryhmään. Työryhmät voivat tehdä autonomisesti päätöksiä työryhmänsä ydintehtäviä koskevista asioista. Asiat, jotka ylittävät työryhmän valtuudet, käsitellään yhteisesti yleiskokouksissa. Näissä asioissa työryhmät voivat valmistella perustellun suosituksen yleiskokoukselle, josta Koordinaatioryhmä äänestää. Yksi henkilö voi kuulua taitojensa ja kiinnostuksiensa mukaan yhteen tai useampaan työryhmään. 
+Jokaisella työryhmällä on vähintään yksi koordinaattori, mielellään kaksi koordinaattoria, ja he kuuluvat myös Koordinointiryhmään. Työryhmät voivat tehdä autonomisesti päätöksiä työryhmänsä ydintehtäviä koskevista asioista. Asiat, jotka ylittävät työryhmän valtuudet, käsitellään yhteisesti yleiskokouksissa. Näissä asioissa työryhmät voivat valmistella perustellun suosituksen yleiskokoukselle, josta Koordinaatioryhmä äänestää. Yksi henkilö voi kuulua taitojensa ja kiinnostuksiensa mukaan yhteen tai useampaan työryhmään. Paikallisryhmien koordinaattorit voivat myös osallistua yleiskokouksiin.
 
 ### 4.3	Paikallisryhmät <span id="4.3"></span>
+
+Kirjoitushetkellä Elokapinalla on Suomessa paikallisryhmiä kolmella paikkakunnalla, Helsingissä XR Pk-seutu, [Lahdessa XR Lahti](https://www.facebook.com/xrlahti/) ja Tampereella [XR Tampere](https://www.facebook.com/Extinction-Rebellion-Tampere-636894946729387/). Paikallisryhmät toimivat autonomisesti Elokapinan periaatteita kunnioittaen ja vaatimuksiin sitoutuen. Kansallinen Elokapina tarjoaa paikallisryhmille resursseja aktivismiin infrastruktuurin, artikkelipankin ja aktioideoiden muodossa.
+
+Paikallisryhmien perustamiseen saa apua kansalliselta organisaatiolta. Paikallisryhmän rakenteeksi Elokapina ehdottaa samaa työryhmärakennetta kuin kansallisella organisaatiolla, jos se on jäsenmäärän huomioiden mahdollinen ja järkevä. Lisäohjeita paikallisryhmän koordinointiin löytyy [Elokapinan ohjekirjasta](https://cloud.extinctionrebellion.fi/index.php/s/eYzMwZ9zz7apRJ2). Tuoreen paikallisryhmän tulee valita keskuudestaan koordinaattori(t), jotka ovat yhteydessä kansallisen organisaation suuntaan.
+
 ## 5. **Viestintätavat ja -alustat** <span id="5"></span>
 ### 5.1 Tavat <span id="5.1"></span>
 ### 5.2 Alustat <span id="5.2"></span>
+
+Käytämme viestintäalustoja viestinnän luottamuksellisuuden, kiireellisyyden ja syvällisyyden perusteella eriytetysti. Meillä on kansallisen organisaation käytössä:
+
+* lähiviestintää varten: [Wire](https://medium.com/@wireapp/staying-anonymous-on-wire-22faa13aba4d) (kiireelliset, luottamukselliset ja ei-syvälliset viestit)
+* toiminnan suunnittelua varten: Mattermost (ei niin kiireelliset, ei niin luottamukselliset, vähän syvällisemmät viestit)
+* strategista suunnittelua varten: [Foorumi](https://base.extinctionrebellion.fi/login) (ei ollenkaan kiireelliset, ei-luottamuselliset, syvälliset viestit)
+
+Paikallisryhmille suosittelemme **Wiren** ja **Foorumin** käyttöä. Paikallisryhmien koordinaattoreille suosittelemme näiden lisäksi myös kansalliselle Mattermost-alustalle kirjautumista. Pyydä kutsu sähköpostitse.
+
 ## 6. **Aktiot** <span id="6"></span>
-### 6.1 Kapinaviikko <span id="6.1"></span>
-### 6.2 Kuinka järjestää oma kansalaistottelemattomuustempaus <span id="6.2"></span>
+
+### 6.1 Koalitioaktio <span id="6.2"></span>
+
+Elokapinoitsijat osallistuivat 6.3.2019 järjestettyyn kansalaistottelemattomuutta sisältävään väkivallattomaan mielenilmaukseen yhdessä satojen muiden Suomen ilmasto- ja ympäristöpolitiikasta huolestuneiden kansalaisten kanssa. Mielenilmaus oli hyvin rauhallinen ja ohjelma hyvin mietitty. Jälkikäteen [jotkin poliitikot pöyristelivät](https://yle.fi/uutiset/3-10678083) eduskuntatalon pylväisiin kiivenneitä aktivisteja. [Jotkut toimittajat](https://www.mtv.fi/sarja/rikospaikka-33001037002/eduskunnan-valvontakamera-tallensi-pylvaisiin-kiipeavat-greenpeace-aktivistit-1062838) puolestaan kehystivät mediassa aktion väkivaltaiseksi, vaikka väkivaltaa ei tapahtunut missään vaiheessa mielenilmausta. Koalitioaktioon osallistunut taidekollektiivi Ilmastokirkko julkaisi [vastineen](<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Filmastokirkkokollektiivi%2Fposts%2F638500579923956&width=500" width="500" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>) pyhät pylväät -keskustelulle. Katso [videomme protestista](https://www.facebook.com/xrsuomi/videos/256974821918922/).
+
+### 6.2 Metsätalousseminaari <span id="6.2"></span>
+
+Pääkaupunkiseudun Elokapinaryhmän aktivistit keskeyttivät 16.3.2019 Helsingin yliopistossa pidetyn Metsätalousseminaarin väkivallattomalla tanssivalla mielenilmauksella. Aktivistit vetosivat yksityisiin metsänomistajiin, jotta he ryhtyisivät jatkuvan kasvatuksen metsänhoitoon ja turvaisivat Suomen hiilinielut. [Lue hiilinieluaktion tiedote.](https://cloud.extinctionrebellion.fi/index.php/s/ACoNMdJCfEjefDa)  [Katso taltiointi mielenilmauksesta.](https://www.youtube.com/watch?v=KVjpcyt6cd8&t=3s)
+
+### 6.3 Tulevaisuuden hautaiset @ Ilmastomarssi 2 6.4.2019
+
+Elokapina kokoontuu suremaan eläinten, ihmisten ja eliölajien ahdinkoa vuonna 2100. Miljoonat ihmiset kuolevat ilmastokriisin seurauksena. Varpunen ja lukemattomat muut eläinlajit ovat kuolleet sukupuuttoon. Sammaleet ovat kadonneet suomalaisista metsistä.
+
+Elokapinan blokki kokoontuu surukulkueeseen klo 14.00 Senaatintorilla. Toimitamme tulevaisuuden hautajaiset marssin aikana kantamalla ilmastokriisin tuhoamaa tulevaisuutta arkussa. Kutsumme ilmastokriisistä ahdistuneet suremaan kanssamme. Greta Thunbergin sanoin, toivoa ei ole, niin pitkään kuin emme toimi.
+
+### 6.4 Kapinaviikko <span id="6.3"></span>
+
+### 6.5 Kuinka järjestää oma kansalaistottelemattomuustempaus <span id="6.2"></span>
 ## 7. **Toiminnan ydinkonseptit** <span id="7"></span>
-### 7.1 Suuntana sukupuutto-puhe <span id="7.1"></span>
+### 7.1 Suuntana sukupuutto -puhe <span id="7.1"></span>
+
+Elokapina pitää standardoituja viimeisimpään ilmastotieteen tutkimukseen pohjautuvia sukupuuttopuheita, joissa kerrotaan ilmastonmuutoksen skenaariot sensuroimatta. Usein ilmastonmuutoskeskustelussa unohtuu ekologisen järjestelmän kompleksisuus ja ilmastonmuutokseen liittyvät takaisinkytkentämekanismit. IPCC:n raportti on konservatiivinen takaisinkytkentämekanismien suhteen, minkä vuoksi sen mukaisiin politiikkasuosituksiin on riskialtista tuudittautua. [Katso Suuntana sukupuutto -puhe englanniksi.](https://www.youtube.com/watch?v=b2VkC4SnwY0&t=1s)
+
 ### 7.2 Kansalliset infopuhelut <span id="7.2"></span>
 ## 8. **Usein kysytyt kysymykset** <span id="8"></span>
+### 8.1 Mikä on Elokapinan poliittinen ohjelma?
