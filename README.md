@@ -189,7 +189,20 @@ Jokaisella työryhmällä on vähintään yksi koordinaattori, mielellään kaks
 
 Kirjoitushetkellä Elokapinalla on Suomessa paikallisryhmiä kolmella paikkakunnalla, Helsingissä XR Pk-seutu, [Lahdessa XR Lahti](https://www.facebook.com/xrlahti/) ja Tampereella [XR Tampere](https://www.facebook.com/Extinction-Rebellion-Tampere-636894946729387/). Paikallisryhmät toimivat autonomisesti Elokapinan periaatteita kunnioittaen ja vaatimuksiin sitoutuen. Kansallinen Elokapina tarjoaa paikallisryhmille resursseja aktivismiin infrastruktuurin, artikkelipankin ja aktioideoiden muodossa.
 
-Paikallisryhmien perustamiseen saa apua kansalliselta organisaatiolta. Paikallisryhmän rakenteeksi Elokapina ehdottaa samaa työryhmärakennetta kuin kansallisella organisaatiolla, jos se on jäsenmäärän huomioiden mahdollinen ja järkevä. Lisäohjeita paikallisryhmän koordinointiin löytyy [Elokapinan ohjekirjasta](https://cloud.extinctionrebellion.fi/index.php/s/eYzMwZ9zz7apRJ2). Tuoreen paikallisryhmän tulee valita keskuudestaan koordinaattori(t), jotka ovat yhteydessä kansallisen organisaation suuntaan.
+Paikallisryhmien perustamiseen saa apua kansalliselta organisaatiolta. Paikallisryhmän rakenteeksi Elokapina ehdottaa samaa työryhmärakennetta kuin kansallisella organisaatiolla, jos se on jäsenmäärän huomioiden mahdollinen ja järkevä. Lisäohjeita paikallisryhmän koordinointiin löytyy [Elokapinan ohjekirjasta](https://cloud.extinctionrebellion.fi/index.php/s/eYzMwZ9zz7apRJ2). 
+
+**Paikallisryhmän perustaminen pähkinänkuoressa (ehdotus)**
+
+1. Lue läpi XR:n periaatteet ja vaatimukset
+2. Kerää muutama kiinnostunut kaveri yhteen
+3. Järjestä avoin tapaaminen/sukupuuttopuhe, jossa perustatte paikallisryhmän
+4. Kerää tilaisuudessa ihmisten yhteystiedot yhteydenpitoa varten
+5. Kutsu paikallisryhmä koolle & valitkaa keskuudestanne yhteyshenkilö(t) kansallisen organisaation suuntaan
+6. Luokaa yhteydenpitoa varten turvallinen sähköpostiosoite (esim. [protonmail](https://protonmail.com/) tai [tutanota](https://tutanota.com/) ovat hyviä)
+7. Ilmoita paikallisryhmästänne kansalliselle organisaatiolle xrfinland@protonmail.com
+8. [Kirjaudu foorumille](https://base.extinctionrebellion.fi/login) ja ilmoita paikallisryhmäosiossa uuden paikallisryhmän perustamisesta.
+9. Luo paikallisryhmälle turvallinen sisäisen viestinnän alusta. [Suosittelemme wire-chattia.](https://medium.com/@wireapp/staying-anonymous-on-wire-22faa13aba4d)
+10. Organisoidu työryhmiin/projektiryhmiin. Vaadi ilmastohätätilan julistamista. Kapinoi.
 
 ## 5. **Viestintätavat ja -alustat** <span id="5"></span>
 ### 5.1 Tavat <span id="5.1"></span>
@@ -228,5 +241,8 @@ Elokapinan blokki kokoontuu surukulkueeseen klo 14.00 Senaatintorilla. Toimitamm
 Elokapina pitää standardoituja viimeisimpään ilmastotieteen tutkimukseen pohjautuvia sukupuuttopuheita, joissa kerrotaan ilmastonmuutoksen skenaariot sensuroimatta. Usein ilmastonmuutoskeskustelussa unohtuu ekologisen järjestelmän kompleksisuus ja ilmastonmuutokseen liittyvät takaisinkytkentämekanismit. IPCC:n raportti on konservatiivinen takaisinkytkentämekanismien suhteen, minkä vuoksi sen mukaisiin politiikkasuosituksiin on riskialtista tuudittautua. [Katso Suuntana sukupuutto -puhe englanniksi.](https://www.youtube.com/watch?v=b2VkC4SnwY0&t=1s)
 
 ### 7.2 Kansalliset infopuhelut <span id="7.2"></span>
+
+Kansallinen Elokapina järjestää säänöllisen epäsäännöllisesti kansallisia videopuheluita, joissa selostetaan Elokapinan taustoista, tavoitteista ja arvoista. Infopuhelut ovat avoimia kaikille. Jos olet kiinnostunut infopuhelusta, voit ilmaista kiinnostuksesi kahdella eri tavalla: 1. laittamalla asiasta sähköpostia: xrfinland@protonmail.com tai 2. seuraavalla FB-sivuamme ja klikkaamalla "osallistun", kun julkaisemme seuraavan infopuhelutapahtuman.
+
 ## 8. **Usein kysytyt kysymykset** <span id="8"></span>
 ### 8.1 Mikä on Elokapinan poliittinen ohjelma?
