@@ -235,6 +235,51 @@ Elokapinan blokki kokoontuu surukulkueeseen klo 14.00 Senaatintorilla. Toimitamm
 ### 6.4 Kapinaviikko <span id="6.3"></span>
 
 ### 6.5 Kuinka järjestää oma kansalaistottelemattomuustempaus <span id="6.2"></span>
+
+Jos sinulla on idea väkivallattomasta kansalaistottelemattomuutta sisältävästä tapahtumasta ja jaat arvomme ja allekirjoitat vaatimuksemme, olet vapaa toteuttamaan aktiosi Elokapinan nimellä. Alla ohjeita liittyen Elokapinan strategian mukaisten aktioiden järjestämiseen. Jos haluat viestinnällistä tukea, ilmoita tapahtumastasi meille osoitteeseen: xrfinland@protonmail.com
+
+**Elokapinan aktioiden tavoitteet**
+
+Yleisesti Elokapinan aktioilla on kolmenlaisia tavoitteita (yksi, useampi tai kaikki). Aktioiden tavoitteita on:
+
+* Häiriö
+* Kontaktointi
+* Visiointi
+
+*Häiriö: aiheuttaa taloudellista häiriötä massakansalaistottelemattomuusaktioilla vaatimusten läpiviemiseksi.
+
+*Kontaktointi: kertoa yleisölle totuus ja tuoda ihmiset yhteen niin protestin kuin mediankin kautta.
+
+*Visiointi: haluamamme tulevaisuuden havainnollistaminen luovin keinoin.
+
+Muita tärkeitä periaatteita Elokapinan aktioille ovat väkivallattomuus ja suora toiminta. Väkivallattomuus on ehdoton periaate, jota noudatetaan aina. Esim. provosoinnin kohteena emme vastaa provokaatioon. Emme myöskään pyri tunkeutumaan poliisi-/vartijamuurin läpi. Pidätystilanteissa emme tee vastarintaa poliisille vaikeuttaaksemme heidän työtään. Olemme poliisien työtä kohtaan kunnioittavia ja pyrimme minimoimaan heidän ylireagoinnin sekä itse tilanteessa että tulevia aktioita ajatellen. Tämä ei ole normatiivinen vaan strateginen valinta - emme ota kantaa poliisilaitoksen arvoihin, vaan pyrimme suojelemaan aktivistejamme poliisin ylireagoinnilta ja maksimoimaan yleisön sympatian väkivallattomia aktioitamme kohtaan.
+
+Elokapinan strategiassa väkivallaton suora toiminta aiheuttaa dilemmatilanteita, joissa voitamme joka tapauksessa. Jos poliisi tekee pidätyksiä, saamme sympatiaa ihmisiltä, jotka eivät hyväksy pidätyksiä ja päättävät liittyä meihin. Jos poliisi taas ei pidätä ketään, se antaa meille positiivista julkisuutta ja status quo:n epälegitiimiys tulee näkyväksi.
+
+**Aktion suunnittelu**
+
+hyvä nyrkkisääntö aktioiden suunnittelulle on varata niille 1 kk aikaa ellei aktio tähtää akuutin poliittisen tilanteen käsittelemiseen
+jaksamisen kannalta on hyvä pitäytyä omissa aikatauluissa eikä jatkuvasti reagoida päivänpoliittisiin tapahtumiin
+
+1. Aktion suunnittelussa mietittävät kysymykset
+
+* Mikä on aktiomme tarkoitus? (häiriö, kontaktointi ja/tai visiointi)
+* Kuinka valitsemamme paikka sopii järjestelmän muuttamiseen? Mikä on paikan symbolinen merkitys?
+* Miksi teemme tämän aktion? Minkä viestin haluamme lähettää?
+* Kuinka kommunikoimme viestimme eri aisteille (näkö, kuulo, tunto, haju)
+* Kuinka paljon ihmisiä tarvitsemme aktion toteuttamiseen? (muista kaikki roolit)
+* Mitä eri laillisuustasoja aktion toimintasuunnitelmaan kuuluu? (vihreä, keltainen, punainen)
+
+2. Aktioon valmistautuminen
+
+* koulutukset (esim. XR:n 3h:n NVDA-koulutus)
+* tukiryhmät
+* aktiokonsensus (XR:llä oma aktiokonsensuspohja)
+* paikkojen tsekkaus
+* lakiasioiden tarkastaminen, pidätyksiin valmistautuminen, putkatukihenkilöiden rekry
+* tavaroiden ja ihmisten kuljetus
+* äänentoistojärjestelmän hankkiminen ja roudaaminen
+
 ## 7. **Toiminnan ydinkonseptit** <span id="7"></span>
 ### 7.1 Suuntana sukupuutto -puhe <span id="7.1"></span>
 
